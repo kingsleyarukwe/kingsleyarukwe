@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://github.com/user-attachments/assets/ff96a7b5-c7a3-4fce-a1bc-141787964673](https://github.com/user-attachments/assets/64b4af1e-3dac-4ba2-8ad3-8a6887393a8b)" alt="Kingsley Arukwe logo" width="75%" />
+<img src="https://github.com/user-attachments/assets/64b4af1e-3dac-4ba2-8ad3-8a6887393a8b" alt="Kingsley Arukwe logo" width="75%" />
 </p>
 
 ## Hi there 👋
