@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/24911d03-2bb4-44e2-899c-50195d169eaa" alt="Kingsley Arukwe logo" width="30%" /></br>
+<img src="https://github.com/user-attachments/assets/24911d03-2bb4-44e2-899c-50195d169eaa" alt="Kingsley Arukwe logo" width="20%" /></br>
 <img src="https://github.com/user-attachments/assets/691b4cf9-bdc2-4cdf-9f4a-6df67c274b3c" alt="Kingsley Arukwe logo" width="auto%"/>
 </p>
 
-## Hi there 👋
+## Welcome!
+Click on the **[Repositories](https://github.com/kingsleyarukwe?tab=repositories)** to explore publicly viewable projects, work samples, and data-driven explorations. *Note: Items under the **Projects tab** are mostly private and may not be publicly accessible.*
+
 
 <!--
 ![KINGS LOGO MAIN small](https://github.com/user-attachments/assets/24911d03-2bb4-44e2-899c-50195d169eaa)
