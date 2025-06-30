@@ -4,7 +4,7 @@
 </p>
 
 ## Welcome!
-Click on the **[Repositories](https://github.com/kingsleyarukwe?tab=repositories)** to explore publicly viewable projects, work samples, and data-driven explorations.</br> *Note: Items under the **Projects tab** are mostly private and may not be publicly accessible.*
+Click on **[Repositories](https://github.com/kingsleyarukwe?tab=repositories)** to explore publicly viewable projects, work samples, and data-driven explorations.</br> *Note: Items under the **Projects tab** are mostly private and may not be publicly accessible.*
 
 
 <!--
