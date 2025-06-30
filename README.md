@@ -22,6 +22,18 @@ At the core, I help teams and businesses ask better questions, see around corner
 
 🧠 I am open to collaboration, bold problems, and global remote opportunities.
 
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
@@ -30,11 +42,7 @@ At the core, I help teams and businesses ask better questions, see around corner
 ![KINGS LOGO MAIN](https://github.com/user-attachments/assets/64b4af1e-3dac-4ba2-8ad3-8a6887393a8b)
 ![KINGS LOGO MAIN](https://github.com/user-attachments/assets/ff96a7b5-c7a3-4fce-a1bc-141787964673)
 ![Github strip](https://github.com/user-attachments/assets/691b4cf9-bdc2-4cdf-9f4a-6df67c274b3c)
-!</br> <img src="https://github.com/user-attachments/assets/691b4cf9-bdc2-4cdf-9f4a-6df67c274b3c" alt="Kingsley Arukwe logo" width="auto%"/>
-
-
-
-
+!<img src="https://github.com/user-attachments/assets/691b4cf9-bdc2-4cdf-9f4a-6df67c274b3c" alt="Kingsley Arukwe logo" width="auto%"/>
 
 **kingsleyarukwe/kingsleyarukwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
