@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/24911d03-2bb4-44e2-899c-50195d169eaa" alt="Kingsley Arukwe logo" width="30%" />
 </p>
 
-## 👋🏽 Data-Driven Strategist | Business Analyst | Insight Architect
+## <p align="center"> 👋🏽 Data-Driven Strategist | Business Analyst | Insight Architect</p>
 
 I’m not your average analyst. I’m an insight-to-action specialist with 16+ years of multi-industry experience turning data into decisive action. From banking and real estate to marketing, branding, and digital commerce, I’ve built a reputation for cutting through noise and delivering insights that reshape strategy, revenue, and culture.
 
@@ -18,9 +18,9 @@ At the core, I help teams and businesses ask better questions, see around corner
 
 ---
 
-📂 Click on **[Repositories](https://github.com/kingsleyarukwe?tab=repositories)** to explore publicly viewable projects, work samples, and data-driven explorations.</br> *Note: Items under the **Projects tab** are mostly private and may not be publicly accessible.*
+📂 Click on **[Repositories](https://github.com/kingsleyarukwe?tab=repositories)** to explore publicly viewable projects, work samples, and data-driven explorations. *(Note: Items under the **Projects tab** are mostly private and may not be publicly accessible.)*
 
-🧠 Open to collaboration, bold problems, and global remote opportunities.
+🧠 I am open to collaboration, bold problems, and global remote opportunities.
 
 
 
